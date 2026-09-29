@@ -1,0 +1,6 @@
+employee_id,first_name,last_name,email,phone,gender,date_of_birth,hire_date,department,job_title,manager_id,salary_inr,employment_type,city,state,status
+E001,Aarav,Sharma,aarav.sharma@example.com,9876543210,Male,1992-03-14,2019-06-10,Engineering,Senior Software Engineer,E005,1800000,Full-time,Bhopal,Madhya Pradesh,Active
+E002,Priya,Verma,priya.verma@example.com,9823456781,Female,1995-07-22,2021-01-18,Data Science,ML Engineer,E005,1500000,Full-time,Indore,Madhya Pradesh,Active
+E003,Rohan,Mehta,rohan.mehta@example.com,9911223344,Male,1990-11-05,2018-09-03,DevOps,MLOps Engineer,E005,1650000,Full-time,Pune,Maharashtra,Active
+E004,Ananya,Iyer,ananya.iyer@example.com,9988776655,Female,1998-01-30,2023-02-27,Product,Product Analyst,E005,1100000,Contract,Bengaluru,Karnataka,Active
+E005,Vikram,Singh,vikram.singh@example.com,9765432109,Male,1985-05-19,2015-04-12,Engineering,Engineering Manager,,3200000,Full-time,Hyderabad,Telangana,Active
