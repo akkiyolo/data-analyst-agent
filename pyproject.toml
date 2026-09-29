@@ -13,6 +13,7 @@ dependencies = [
     "langgraph>=1.2.12",
     "pandas>=3.0.6",
     "python-dotenv>=1.2.3",
+    "streamlit>=1.64.0",
 ]
 
 [project.scripts]
