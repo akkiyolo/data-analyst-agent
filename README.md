@@ -1,4 +1,4 @@
-##﻿# Data Analyst Agent
+Data Analyst Agent
 
 A simple data analyst build to give a refresher for agentic skills
 
